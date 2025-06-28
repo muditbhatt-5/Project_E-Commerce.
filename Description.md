@@ -25,4 +25,4 @@ JWT Authentication (User security)
 Prerequisites
 Node.js & npm installed
 .NET SDK installed
-SQL Server set up
+SQL Server set up.
